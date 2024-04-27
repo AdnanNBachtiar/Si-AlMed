@@ -1,0 +1,10 @@
+checkbox tidak usah
+pemanggilan untuk waktu kalibrasi dilakykan perbandingan antara tanggal kalibrasi dengan taanggal kalibrasi yang akan datang
+membuat detail riwayat kalibrasi sehingga kita bisa lihat tanggal berapa saja kalibtasi di lakukan
+
+
+modal 2 untuk melakukan update data belum dapat dilakukan
+
+
+master data tettap satu saja
+untuk riwayat print yg diambil nama alat, series number, no inevtaris, tanggal kalibrasi, kalibrasi ulang,  lokasi
